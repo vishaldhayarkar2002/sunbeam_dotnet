@@ -1,0 +1,6 @@
+C:\Users\sunbeam\Desktop\codes\Day1\MathSoln\MathLib\bin\Debug\MathLib.dll
+C:\Users\sunbeam\Desktop\codes\Day1\MathSoln\MathLib\bin\Debug\MathLib.pdb
+C:\Users\sunbeam\Desktop\codes\Day1\MathSoln\MathLib\obj\Debug\MathLib.csproj.AssemblyReference.cache
+C:\Users\sunbeam\Desktop\codes\Day1\MathSoln\MathLib\obj\Debug\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day1\MathSoln\MathLib\obj\Debug\MathLib.dll
+C:\Users\sunbeam\Desktop\codes\Day1\MathSoln\MathLib\obj\Debug\MathLib.pdb
