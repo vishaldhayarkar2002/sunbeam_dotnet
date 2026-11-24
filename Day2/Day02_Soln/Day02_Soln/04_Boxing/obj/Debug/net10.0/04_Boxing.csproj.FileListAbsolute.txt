@@ -1,0 +1,14 @@
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\bin\Debug\net10.0\04_Boxing.exe
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\bin\Debug\net10.0\04_Boxing.deps.json
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\bin\Debug\net10.0\04_Boxing.runtimeconfig.json
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\bin\Debug\net10.0\04_Boxing.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\bin\Debug\net10.0\04_Boxing.pdb
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\obj\Debug\net10.0\04_Boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\obj\Debug\net10.0\04_Boxing.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\obj\Debug\net10.0\04_Boxing.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\obj\Debug\net10.0\04_Boxing.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\obj\Debug\net10.0\04_Boxing.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\obj\Debug\net10.0\refint\04_Boxing.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\obj\Debug\net10.0\04_Boxing.pdb
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\obj\Debug\net10.0\04_Boxing.genruntimeconfig.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\04_Boxing\obj\Debug\net10.0\ref\04_Boxing.dll

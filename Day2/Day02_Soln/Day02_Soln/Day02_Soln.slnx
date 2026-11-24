@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01_Namespace/01_Namespace.csproj" />
+  <Project Path="02_Datatypes/02_Datatypes.csproj" />
+  <Project Path="03_StructEnum/03_StructEnum.csproj" />
+  <Project Path="04_Boxing/04_Boxing.csproj" />
+  <Project Path="05_Methods/05_Methods.csproj" />
+  <Project Path="06_Inheritance/06_Inheritance.csproj" />
+</Solution>

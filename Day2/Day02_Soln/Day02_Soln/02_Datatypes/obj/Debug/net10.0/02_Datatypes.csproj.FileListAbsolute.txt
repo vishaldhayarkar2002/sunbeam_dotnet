@@ -1,0 +1,14 @@
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\bin\Debug\net10.0\02_Datatypes.exe
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\bin\Debug\net10.0\02_Datatypes.deps.json
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\bin\Debug\net10.0\02_Datatypes.runtimeconfig.json
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\bin\Debug\net10.0\02_Datatypes.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\bin\Debug\net10.0\02_Datatypes.pdb
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\obj\Debug\net10.0\02_Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\obj\Debug\net10.0\02_Datatypes.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\obj\Debug\net10.0\02_Datatypes.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\obj\Debug\net10.0\02_Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\obj\Debug\net10.0\02_Datatypes.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\obj\Debug\net10.0\refint\02_Datatypes.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\obj\Debug\net10.0\02_Datatypes.pdb
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\obj\Debug\net10.0\02_Datatypes.genruntimeconfig.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\02_Datatypes\obj\Debug\net10.0\ref\02_Datatypes.dll

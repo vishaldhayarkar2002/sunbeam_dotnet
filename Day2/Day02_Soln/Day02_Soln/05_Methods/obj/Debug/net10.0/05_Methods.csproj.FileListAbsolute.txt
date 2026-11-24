@@ -1,0 +1,14 @@
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\bin\Debug\net10.0\05_Methods.exe
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\bin\Debug\net10.0\05_Methods.deps.json
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\bin\Debug\net10.0\05_Methods.runtimeconfig.json
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\bin\Debug\net10.0\05_Methods.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\bin\Debug\net10.0\05_Methods.pdb
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\obj\Debug\net10.0\05_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\obj\Debug\net10.0\05_Methods.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\obj\Debug\net10.0\05_Methods.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\obj\Debug\net10.0\05_Methods.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\obj\Debug\net10.0\05_Methods.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\obj\Debug\net10.0\refint\05_Methods.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\obj\Debug\net10.0\05_Methods.pdb
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\obj\Debug\net10.0\05_Methods.genruntimeconfig.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\05_Methods\obj\Debug\net10.0\ref\05_Methods.dll

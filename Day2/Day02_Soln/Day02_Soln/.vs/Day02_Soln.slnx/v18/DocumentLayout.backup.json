@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C33B5170-32DD-4DAA-8594-3D266BBBCD84}|06_Inheritance\\06_Inheritance.csproj|c:\\users\\sunbeam\\desktop\\msdotnet\\day2\\day02_soln\\day02_soln\\06_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33B5170-32DD-4DAA-8594-3D266BBBCD84}|06_Inheritance\\06_Inheritance.csproj|solutionrelative:06_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FD3BA5-67FF-4C6B-9A1C-9EBA4D7482B7}|05_Methods\\05_Methods.csproj|c:\\users\\sunbeam\\desktop\\msdotnet\\day2\\day02_soln\\day02_soln\\05_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FD3BA5-67FF-4C6B-9A1C-9EBA4D7482B7}|05_Methods\\05_Methods.csproj|solutionrelative:05_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBFBFED-BF5D-4711-ADE0-E5E57473A706}|04_Boxing\\04_Boxing.csproj|c:\\users\\sunbeam\\desktop\\msdotnet\\day2\\day02_soln\\day02_soln\\04_boxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBFBFED-BF5D-4711-ADE0-E5E57473A706}|04_Boxing\\04_Boxing.csproj|solutionrelative:04_boxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129F9CF1-17E9-4DAB-A271-FBA06771FCA8}|03_StructEnum\\03_StructEnum.csproj|c:\\users\\sunbeam\\desktop\\msdotnet\\day2\\day02_soln\\day02_soln\\03_structenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129F9CF1-17E9-4DAB-A271-FBA06771FCA8}|03_StructEnum\\03_StructEnum.csproj|solutionrelative:03_structenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4040447F-2197-4879-B320-7B83295B252E}|02_Datatypes\\02_Datatypes.csproj|c:\\users\\sunbeam\\desktop\\msdotnet\\day2\\day02_soln\\day02_soln\\02_datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4040447F-2197-4879-B320-7B83295B252E}|02_Datatypes\\02_Datatypes.csproj|solutionrelative:02_datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6714320E-4BAF-4162-9BC4-49A58C27C32F}|01_Namespace\\01_Namespace.csproj|c:\\users\\sunbeam\\desktop\\msdotnet\\day2\\day02_soln\\day02_soln\\01_namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6714320E-4BAF-4162-9BC4-49A58C27C32F}|01_Namespace\\01_Namespace.csproj|solutionrelative:01_namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\06_Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "06_Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\06_Inheritance\\Program.cs",
+              "RelativeToolTip": "06_Inheritance\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwEoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T06:52:44.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\05_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "05_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\05_Methods\\Program.cs",
+              "RelativeToolTip": "05_Methods\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAzwAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T05:48:32.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\04_Boxing\\Program.cs",
+              "RelativeDocumentMoniker": "04_Boxing\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\04_Boxing\\Program.cs",
+              "RelativeToolTip": "04_Boxing\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T05:33:53.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\03_StructEnum\\Program.cs",
+              "RelativeDocumentMoniker": "03_StructEnum\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\03_StructEnum\\Program.cs",
+              "RelativeToolTip": "03_StructEnum\\Program.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAswKQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:52:11.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\02_Datatypes\\Program.cs",
+              "RelativeDocumentMoniker": "02_Datatypes\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\02_Datatypes\\Program.cs",
+              "RelativeToolTip": "02_Datatypes\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:22:41.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\01_Namespace\\Program.cs",
+              "RelativeDocumentMoniker": "01_Namespace\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\MSDOTNET\\Day2\\Day02_Soln\\Day02_Soln\\01_Namespace\\Program.cs",
+              "RelativeToolTip": "01_Namespace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:53:29.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

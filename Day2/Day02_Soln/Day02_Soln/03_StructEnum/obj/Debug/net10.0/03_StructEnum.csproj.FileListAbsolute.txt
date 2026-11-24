@@ -1,0 +1,14 @@
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\bin\Debug\net10.0\03_StructEnum.exe
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\bin\Debug\net10.0\03_StructEnum.deps.json
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\bin\Debug\net10.0\03_StructEnum.runtimeconfig.json
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\bin\Debug\net10.0\03_StructEnum.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\bin\Debug\net10.0\03_StructEnum.pdb
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\obj\Debug\net10.0\03_StructEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\obj\Debug\net10.0\03_StructEnum.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\obj\Debug\net10.0\03_StructEnum.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\obj\Debug\net10.0\03_StructEnum.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\obj\Debug\net10.0\03_StructEnum.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\obj\Debug\net10.0\refint\03_StructEnum.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\obj\Debug\net10.0\03_StructEnum.pdb
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\obj\Debug\net10.0\03_StructEnum.genruntimeconfig.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\03_StructEnum\obj\Debug\net10.0\ref\03_StructEnum.dll

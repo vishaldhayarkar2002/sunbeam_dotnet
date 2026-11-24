@@ -1,0 +1,14 @@
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\bin\Debug\net10.0\06_Inheritance.exe
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\bin\Debug\net10.0\06_Inheritance.deps.json
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\bin\Debug\net10.0\06_Inheritance.runtimeconfig.json
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\bin\Debug\net10.0\06_Inheritance.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\bin\Debug\net10.0\06_Inheritance.pdb
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\obj\Debug\net10.0\06_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\obj\Debug\net10.0\06_Inheritance.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\obj\Debug\net10.0\06_Inheritance.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\obj\Debug\net10.0\06_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\obj\Debug\net10.0\06_Inheritance.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\obj\Debug\net10.0\refint\06_Inheritance.dll
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\obj\Debug\net10.0\06_Inheritance.pdb
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\obj\Debug\net10.0\06_Inheritance.genruntimeconfig.cache
+C:\Users\sunbeam\Desktop\MSDOTNET\Day2\Day02_Soln\Day02_Soln\06_Inheritance\obj\Debug\net10.0\ref\06_Inheritance.dll
