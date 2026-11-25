@@ -1,0 +1,7 @@
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\06_Delegates\bin\Debug\06_Delegates.exe.config
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\06_Delegates\bin\Debug\06_Delegates.exe
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\06_Delegates\bin\Debug\06_Delegates.pdb
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\06_Delegates\obj\Debug\06_Delegates.csproj.AssemblyReference.cache
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\06_Delegates\obj\Debug\06_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\06_Delegates\obj\Debug\06_Delegates.exe
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\06_Delegates\obj\Debug\06_Delegates.pdb

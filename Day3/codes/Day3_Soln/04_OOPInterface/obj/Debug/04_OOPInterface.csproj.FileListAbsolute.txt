@@ -1,0 +1,7 @@
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\04_OOPInterface\bin\Debug\04_OOPInterface.exe.config
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\04_OOPInterface\bin\Debug\04_OOPInterface.exe
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\04_OOPInterface\bin\Debug\04_OOPInterface.pdb
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\04_OOPInterface\obj\Debug\04_OOPInterface.csproj.AssemblyReference.cache
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\04_OOPInterface\obj\Debug\04_OOPInterface.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\04_OOPInterface\obj\Debug\04_OOPInterface.exe
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\04_OOPInterface\obj\Debug\04_OOPInterface.pdb

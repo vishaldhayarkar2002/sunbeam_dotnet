@@ -1,0 +1,7 @@
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\05_Generics\bin\Debug\05_Generics.exe.config
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\05_Generics\bin\Debug\05_Generics.exe
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\05_Generics\bin\Debug\05_Generics.pdb
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\05_Generics\obj\Debug\05_Generics.csproj.AssemblyReference.cache
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\05_Generics\obj\Debug\05_Generics.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\05_Generics\obj\Debug\05_Generics.exe
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\05_Generics\obj\Debug\05_Generics.pdb

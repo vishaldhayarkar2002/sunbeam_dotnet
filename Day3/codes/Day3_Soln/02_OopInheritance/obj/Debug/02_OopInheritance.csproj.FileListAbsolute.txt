@@ -1,0 +1,7 @@
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\02_OopInheritance\bin\Debug\02_OopInheritance.exe.config
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\02_OopInheritance\bin\Debug\02_OopInheritance.exe
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\02_OopInheritance\bin\Debug\02_OopInheritance.pdb
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\02_OopInheritance\obj\Debug\02_OopInheritance.csproj.AssemblyReference.cache
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\02_OopInheritance\obj\Debug\02_OopInheritance.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\02_OopInheritance\obj\Debug\02_OopInheritance.exe
+C:\Users\sunbeam\Desktop\codes\Day3\Day3_Soln\02_OopInheritance\obj\Debug\02_OopInheritance.pdb

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73841C30-8ACF-429E-B411-829663BFA5AF}|06_Delegates\\06_Delegates.csproj|c:\\users\\sunbeam\\desktop\\codes\\day3\\day3_soln\\06_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73841C30-8ACF-429E-B411-829663BFA5AF}|06_Delegates\\06_Delegates.csproj|solutionrelative:06_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540A3962-332C-4D14-AA7A-8081A1032907}|05_Generics\\05_Generics.csproj|c:\\users\\sunbeam\\desktop\\codes\\day3\\day3_soln\\05_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540A3962-332C-4D14-AA7A-8081A1032907}|05_Generics\\05_Generics.csproj|solutionrelative:05_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755068BA-DC80-47EE-9A97-95DF9794E90A}|04_OOPInterface\\04_OOPInterface.csproj|c:\\users\\sunbeam\\desktop\\codes\\day3\\day3_soln\\04_oopinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755068BA-DC80-47EE-9A97-95DF9794E90A}|04_OOPInterface\\04_OOPInterface.csproj|solutionrelative:04_oopinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A46D22-C8C2-4620-8788-BD723CA50672}|03_OopInheritance\\03_OopInheritance.csproj|c:\\users\\sunbeam\\desktop\\codes\\day3\\day3_soln\\03_oopinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A46D22-C8C2-4620-8788-BD723CA50672}|03_OopInheritance\\03_OopInheritance.csproj|solutionrelative:03_oopinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EB7EA1-DDE9-460D-9A30-5B4DF0777BD5}|02_OopInheritance\\02_OopInheritance.csproj|c:\\users\\sunbeam\\desktop\\codes\\day3\\day3_soln\\02_oopinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EB7EA1-DDE9-460D-9A30-5B4DF0777BD5}|02_OopInheritance\\02_OopInheritance.csproj|solutionrelative:02_oopinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF679118-4486-4E4A-B98C-5FD8EDC82F95}|01_OopInheritance\\01_OopInheritance.csproj|c:\\users\\sunbeam\\desktop\\codes\\day3\\day3_soln\\01_oopinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF679118-4486-4E4A-B98C-5FD8EDC82F95}|01_OopInheritance\\01_OopInheritance.csproj|solutionrelative:01_oopinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\06_Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "06_Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\06_Delegates\\Program.cs",
+              "RelativeToolTip": "06_Delegates\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwEwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T07:26:19.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\05_Generics\\Program.cs",
+              "RelativeDocumentMoniker": "05_Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\05_Generics\\Program.cs",
+              "RelativeToolTip": "05_Generics\\Program.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAxwPUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:55:13.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\04_OOPInterface\\Program.cs",
+              "RelativeDocumentMoniker": "04_OOPInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\04_OOPInterface\\Program.cs",
+              "RelativeToolTip": "04_OOPInterface\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAIAxwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T05:20:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\03_OopInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "03_OopInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\03_OopInheritance\\Program.cs",
+              "RelativeToolTip": "03_OopInheritance\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T04:10:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\02_OopInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "02_OopInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\02_OopInheritance\\Program.cs",
+              "RelativeToolTip": "02_OopInheritance\\Program.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAA3wLoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T03:28:02.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\01_OopInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "01_OopInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day3\\Day3_Soln\\01_OopInheritance\\Program.cs",
+              "RelativeToolTip": "01_OopInheritance\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA3wE0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T02:51:57.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
