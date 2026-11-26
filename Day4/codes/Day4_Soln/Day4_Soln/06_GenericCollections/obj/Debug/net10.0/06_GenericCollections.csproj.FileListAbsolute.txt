@@ -1,0 +1,15 @@
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\bin\Debug\net10.0\06_GenericCollections.exe
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\bin\Debug\net10.0\06_GenericCollections.deps.json
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\bin\Debug\net10.0\06_GenericCollections.runtimeconfig.json
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\bin\Debug\net10.0\06_GenericCollections.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\bin\Debug\net10.0\06_GenericCollections.pdb
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\obj\Debug\net10.0\06_GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\obj\Debug\net10.0\06_GenericCollections.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\obj\Debug\net10.0\06_GenericCollections.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\obj\Debug\net10.0\06_GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\obj\Debug\net10.0\06_GenericCollections.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\obj\Debug\net10.0\refint\06_GenericCollections.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\obj\Debug\net10.0\06_GenericCollections.pdb
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\obj\Debug\net10.0\06_GenericCollections.genruntimeconfig.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\obj\Debug\net10.0\ref\06_GenericCollections.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\06_GenericCollections\obj\Debug\net10.0\06_Gener.0E996688.Up2Date

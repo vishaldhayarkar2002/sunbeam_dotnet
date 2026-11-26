@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE965439-9575-44BA-9144-522685867905}|07_PartialClass\\07_PartialClass.csproj|c:\\users\\sunbeam\\desktop\\codes\\day4\\day4_soln\\day4_soln\\07_partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE965439-9575-44BA-9144-522685867905}|07_PartialClass\\07_PartialClass.csproj|solutionrelative:07_partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B0E934-80DA-4A4C-96CA-254C5928339D}|06_GenericCollections\\06_GenericCollections.csproj|c:\\users\\sunbeam\\desktop\\codes\\day4\\day4_soln\\day4_soln\\06_genericcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B0E934-80DA-4A4C-96CA-254C5928339D}|06_GenericCollections\\06_GenericCollections.csproj|solutionrelative:06_genericcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE69AB14-3206-4E39-B134-8BF73BDFFFF0}|05_06_LegacyCollections\\05_06_LegacyCollections.csproj|c:\\users\\sunbeam\\desktop\\codes\\day4\\day4_soln\\day4_soln\\05_06_legacycollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE69AB14-3206-4E39-B134-8BF73BDFFFF0}|05_06_LegacyCollections\\05_06_LegacyCollections.csproj|solutionrelative:05_06_legacycollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDA0E13-BE0E-4406-A52B-5C85CFB42569}|04_Arrays\\04_Arrays.csproj|c:\\users\\sunbeam\\desktop\\codes\\day4\\day4_soln\\day4_soln\\04_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDA0E13-BE0E-4406-A52B-5C85CFB42569}|04_Arrays\\04_Arrays.csproj|solutionrelative:04_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0B18F2-A9C5-4370-8EA9-155380CBFF70}|03_GenericDelgates\\03_GenericDelgates.csproj|c:\\users\\sunbeam\\desktop\\codes\\day4\\day4_soln\\day4_soln\\03_genericdelgates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0B18F2-A9C5-4370-8EA9-155380CBFF70}|03_GenericDelgates\\03_GenericDelgates.csproj|solutionrelative:03_genericdelgates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC387B0E-BE35-4DBC-A0C0-DB22F102D6B4}|02_ImprovedEvents\\02_ImprovedEvents.csproj|c:\\users\\sunbeam\\desktop\\codes\\day4\\day4_soln\\day4_soln\\02_improvedevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC387B0E-BE35-4DBC-A0C0-DB22F102D6B4}|02_ImprovedEvents\\02_ImprovedEvents.csproj|solutionrelative:02_improvedevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD7210A-60E3-4305-988A-03ABCC6BB881}|01_Events\\01_Events.csproj|c:\\users\\sunbeam\\desktop\\codes\\day4\\day4_soln\\day4_soln\\01_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD7210A-60E3-4305-988A-03ABCC6BB881}|01_Events\\01_Events.csproj|solutionrelative:01_events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\07_PartialClass\\Program.cs",
+              "RelativeDocumentMoniker": "07_PartialClass\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\07_PartialClass\\Program.cs",
+              "RelativeToolTip": "07_PartialClass\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T06:58:28.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\06_GenericCollections\\Program.cs",
+              "RelativeDocumentMoniker": "06_GenericCollections\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\06_GenericCollections\\Program.cs",
+              "RelativeToolTip": "06_GenericCollections\\Program.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAmwOoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T05:29:38.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\05_06_LegacyCollections\\Program.cs",
+              "RelativeDocumentMoniker": "05_06_LegacyCollections\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\05_06_LegacyCollections\\Program.cs",
+              "RelativeToolTip": "05_06_LegacyCollections\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T05:18:33.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\04_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "04_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\04_Arrays\\Program.cs",
+              "RelativeToolTip": "04_Arrays\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA0wFsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T04:13:02.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\03_GenericDelgates\\Program.cs",
+              "RelativeDocumentMoniker": "03_GenericDelgates\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\03_GenericDelgates\\Program.cs",
+              "RelativeToolTip": "03_GenericDelgates\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA0wEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T03:54:24.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\02_ImprovedEvents\\Program.cs",
+              "RelativeDocumentMoniker": "02_ImprovedEvents\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\02_ImprovedEvents\\Program.cs",
+              "RelativeToolTip": "02_ImprovedEvents\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA1wDUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T03:35:20.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\01_Events\\Program.cs",
+              "RelativeDocumentMoniker": "01_Events\\Program.cs",
+              "ToolTip": "C:\\Users\\sunbeam\\Desktop\\codes\\Day4\\Day4_Soln\\Day4_Soln\\01_Events\\Program.cs",
+              "RelativeToolTip": "01_Events\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T02:52:04.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

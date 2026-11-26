@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01_Events/01_Events.csproj" />
+  <Project Path="02_ImprovedEvents/02_ImprovedEvents.csproj" />
+  <Project Path="03_GenericDelgates/03_GenericDelgates.csproj" />
+  <Project Path="04_Arrays/04_Arrays.csproj" />
+  <Project Path="05_06_LegacyCollections/05_06_LegacyCollections.csproj" />
+  <Project Path="06_GenericCollections/06_GenericCollections.csproj" />
+  <Project Path="07_PartialClass/07_PartialClass.csproj" />
+</Solution>

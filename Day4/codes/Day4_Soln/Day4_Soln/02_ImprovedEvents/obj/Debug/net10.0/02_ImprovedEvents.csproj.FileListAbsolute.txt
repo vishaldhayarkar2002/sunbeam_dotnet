@@ -1,0 +1,15 @@
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\bin\Debug\net10.0\02_ImprovedEvents.exe
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\bin\Debug\net10.0\02_ImprovedEvents.deps.json
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\bin\Debug\net10.0\02_ImprovedEvents.runtimeconfig.json
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\bin\Debug\net10.0\02_ImprovedEvents.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\bin\Debug\net10.0\02_ImprovedEvents.pdb
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\obj\Debug\net10.0\02_ImprovedEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\obj\Debug\net10.0\02_ImprovedEvents.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\obj\Debug\net10.0\02_ImprovedEvents.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\obj\Debug\net10.0\02_ImprovedEvents.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\obj\Debug\net10.0\02_ImprovedEvents.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\obj\Debug\net10.0\refint\02_ImprovedEvents.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\obj\Debug\net10.0\02_ImprovedEvents.pdb
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\obj\Debug\net10.0\02_ImprovedEvents.genruntimeconfig.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\obj\Debug\net10.0\ref\02_ImprovedEvents.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\02_ImprovedEvents\obj\Debug\net10.0\02_Impro.880FFEB3.Up2Date

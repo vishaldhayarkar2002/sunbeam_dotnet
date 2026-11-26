@@ -1,0 +1,15 @@
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\bin\Debug\net10.0\05_06_LegacyCollections.exe
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\bin\Debug\net10.0\05_06_LegacyCollections.deps.json
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\bin\Debug\net10.0\05_06_LegacyCollections.runtimeconfig.json
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\bin\Debug\net10.0\05_06_LegacyCollections.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\bin\Debug\net10.0\05_06_LegacyCollections.pdb
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\obj\Debug\net10.0\05_06_LegacyCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\obj\Debug\net10.0\05_06_LegacyCollections.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\obj\Debug\net10.0\05_06_LegacyCollections.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\obj\Debug\net10.0\05_06_LegacyCollections.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\obj\Debug\net10.0\05_06_LegacyCollections.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\obj\Debug\net10.0\refint\05_06_LegacyCollections.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\obj\Debug\net10.0\05_06_LegacyCollections.pdb
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\obj\Debug\net10.0\05_06_LegacyCollections.genruntimeconfig.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\obj\Debug\net10.0\ref\05_06_LegacyCollections.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\05_06_LegacyCollections\obj\Debug\net10.0\05_06_Le.8A5C0503.Up2Date

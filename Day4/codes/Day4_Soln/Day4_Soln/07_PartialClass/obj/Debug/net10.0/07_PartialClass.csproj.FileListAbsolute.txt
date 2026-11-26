@@ -1,0 +1,15 @@
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\bin\Debug\net10.0\07_PartialClass.exe
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\bin\Debug\net10.0\07_PartialClass.deps.json
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\bin\Debug\net10.0\07_PartialClass.runtimeconfig.json
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\bin\Debug\net10.0\07_PartialClass.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\bin\Debug\net10.0\07_PartialClass.pdb
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\obj\Debug\net10.0\07_PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\obj\Debug\net10.0\07_PartialClass.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\obj\Debug\net10.0\07_PartialClass.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\obj\Debug\net10.0\07_PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\obj\Debug\net10.0\07_PartialClass.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\obj\Debug\net10.0\refint\07_PartialClass.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\obj\Debug\net10.0\07_PartialClass.pdb
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\obj\Debug\net10.0\07_PartialClass.genruntimeconfig.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\obj\Debug\net10.0\ref\07_PartialClass.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\07_PartialClass\obj\Debug\net10.0\07_Parti.DDD0B446.Up2Date

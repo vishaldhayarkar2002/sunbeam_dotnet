@@ -1,0 +1,15 @@
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\bin\Debug\net10.0\03_GenericDelgates.exe
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\bin\Debug\net10.0\03_GenericDelgates.deps.json
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\bin\Debug\net10.0\03_GenericDelgates.runtimeconfig.json
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\bin\Debug\net10.0\03_GenericDelgates.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\bin\Debug\net10.0\03_GenericDelgates.pdb
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\obj\Debug\net10.0\03_GenericDelgates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\obj\Debug\net10.0\03_GenericDelgates.AssemblyInfoInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\obj\Debug\net10.0\03_GenericDelgates.AssemblyInfo.cs
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\obj\Debug\net10.0\03_GenericDelgates.csproj.CoreCompileInputs.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\obj\Debug\net10.0\03_GenericDelgates.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\obj\Debug\net10.0\refint\03_GenericDelgates.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\obj\Debug\net10.0\03_GenericDelgates.pdb
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\obj\Debug\net10.0\03_GenericDelgates.genruntimeconfig.cache
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\obj\Debug\net10.0\ref\03_GenericDelgates.dll
+C:\Users\sunbeam\Desktop\codes\Day4\Day4_Soln\Day4_Soln\03_GenericDelgates\obj\Debug\net10.0\03_Gener.08B33202.Up2Date
