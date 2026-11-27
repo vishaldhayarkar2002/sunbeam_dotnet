@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD6ACFB-4E14-4732-8338-5ECB80AFF932}|04_FileIO\\04_FileIO.csproj|d:\\nilesh\\aug25\\dac\\dotnet\\day05\\day05_soln\\04_fileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD6ACFB-4E14-4732-8338-5ECB80AFF932}|04_FileIO\\04_FileIO.csproj|solutionrelative:04_fileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745F70B4-F984-473E-9496-69CDB2CDF51C}|01_Static\\01_Static.csproj|d:\\nilesh\\aug25\\dac\\dotnet\\day05\\day05_soln\\01_static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745F70B4-F984-473E-9496-69CDB2CDF51C}|01_Static\\01_Static.csproj|solutionrelative:01_static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD6ACFB-4E14-4732-8338-5ECB80AFF932}|04_FileIO\\04_FileIO.csproj|d:\\nilesh\\aug25\\dac\\dotnet\\day05\\day05_soln\\04_fileio\\04_fileio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDD6ACFB-4E14-4732-8338-5ECB80AFF932}|04_FileIO\\04_FileIO.csproj|solutionrelative:04_fileio\\04_fileio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF81224-3D88-403F-B8CD-BD6E311B3F5D}|03_Linq\\03_Linq.csproj|d:\\nilesh\\aug25\\dac\\dotnet\\day05\\day05_soln\\03_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF81224-3D88-403F-B8CD-BD6E311B3F5D}|03_Linq\\03_Linq.csproj|solutionrelative:03_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934161E7-BA04-41CD-8947-6B579DABE961}|02_Nullable\\02_Nullable.csproj|d:\\nilesh\\aug25\\dac\\dotnet\\day05\\day05_soln\\02_nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934161E7-BA04-41CD-8947-6B579DABE961}|02_Nullable\\02_Nullable.csproj|solutionrelative:02_nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04_FileIO.csproj",
+              "DocumentMoniker": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\04_FileIO\\04_FileIO.csproj",
+              "RelativeDocumentMoniker": "04_FileIO\\04_FileIO.csproj",
+              "ToolTip": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\04_FileIO\\04_FileIO.csproj",
+              "RelativeToolTip": "04_FileIO\\04_FileIO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-26T07:09:56.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\03_Linq\\Program.cs",
+              "RelativeDocumentMoniker": "03_Linq\\Program.cs",
+              "ToolTip": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\03_Linq\\Program.cs",
+              "RelativeToolTip": "03_Linq\\Program.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAowKUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:37:56.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\01_Static\\Program.cs",
+              "RelativeDocumentMoniker": "01_Static\\Program.cs",
+              "ToolTip": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\01_Static\\Program.cs",
+              "RelativeToolTip": "01_Static\\Program.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAADoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:23:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\04_FileIO\\Program.cs",
+              "RelativeDocumentMoniker": "04_FileIO\\Program.cs",
+              "ToolTip": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\04_FileIO\\Program.cs",
+              "RelativeToolTip": "04_FileIO\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T02:10:23.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\02_Nullable\\Program.cs",
+              "RelativeDocumentMoniker": "02_Nullable\\Program.cs",
+              "ToolTip": "D:\\Nilesh\\Aug25\\DAC\\dotnet\\day05\\Day05_Soln\\02_Nullable\\Program.cs",
+              "RelativeToolTip": "02_Nullable\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:52:41.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
